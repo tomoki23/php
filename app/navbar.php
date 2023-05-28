@@ -6,7 +6,7 @@
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item"><a href="#" class="nav-link">お知らせ</a></li>
+            <li class="nav-item"><a href="info.php" class="nav-link">お知らせ</a></li>
             <li class="nav-item"><a href="#" class="nav-link">アルバム</a></li>
             <li class="nav-item"><a href="#" class="nav-link">掲示板</a></li>
         </ul>
